@@ -23,5 +23,7 @@
     "subfont": "^6.9.0",
     "windy-radix-palette": "^0.1.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@fontsource/manrope": "^4.5.11"
+  }
 }

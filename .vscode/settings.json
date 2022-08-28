@@ -3,10 +3,14 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "[astro]": {
     "editor.formatOnSave": true,
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "astro-build.astro-vscode"
   },
   "[javascript]": {
     "editor.formatOnSave": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "discord.enabled": false,
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
   }
 }
